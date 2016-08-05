@@ -1,0 +1,53 @@
+
+
+.productInfo {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-top: 20px;
+
+}
+.productInfo .productItem{
+	display: flex;
+	align-self: center;
+}
+.productInfo .productItem:nth-of-type(3) {
+	flex-direction: column;
+}
+
+.itemImage {
+	width: 230px;
+	height: 300px;
+	margin: 5px 10px 5px 10px;
+	box-shadow: 
+		inset 0 20px gray, 
+    	inset 0 -20px gray,
+    	inset 5px 0 gray, 
+    	inset -5px 0 gray;
+}
+
+.itemTitle {
+	font-size: 25px;
+	color: #0000ee;
+	margin-bottom: 5px;
+
+}
+
+.itemPassPrice {
+	font-size: 22px;
+	color: #f00;
+	margin-right: 10px;
+
+}
+
+.itemPrice {
+	font-size: 20px;
+	margin-right: 10px;
+
+}
+
+.itemCount {
+	font-size: 20px;
+	color: #f0f;
+}
+

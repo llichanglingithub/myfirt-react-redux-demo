@@ -1,0 +1,15 @@
+
+
+.itemMargin {
+	margin-top: 20px;
+	text-align: center;
+	margin-right: 20px;
+	flex-grow: 1;
+}
+.addButton {
+	margin-top: 5px;
+	box-shadow: 5px 5px 3px #e688e6;
+	border-radius: 20px;
+	background-color: #1E90FF;
+	color: red;
+}

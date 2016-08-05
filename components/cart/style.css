@@ -1,0 +1,21 @@
+.title {
+	text-align: center;
+}
+.total{
+	color: red;
+}
+
+.checkoutButton{
+	margin-top: 5px;
+	background-color: #1E90FF;
+	color: yellow;
+}
+
+.cartItem {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.cartBG {
+	background-color: #F5F5F5;
+}

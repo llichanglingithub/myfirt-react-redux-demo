@@ -1,0 +1,18 @@
+.navBG {
+	background-image: url("../../images/headerBG.jpg");
+	height: 100px;
+
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+.ulStyle {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	list-style: none;
+}
+.liStyle {
+	margin-right: 5px;
+}

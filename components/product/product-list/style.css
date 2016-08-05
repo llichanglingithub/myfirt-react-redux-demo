@@ -1,0 +1,12 @@
+.title{
+		display: flex;
+		justify-content: center;
+}
+.productList {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.bg {
+	background-color: #FFE4B5;
+}
